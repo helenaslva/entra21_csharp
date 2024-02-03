@@ -1,0 +1,55 @@
+.img-nav {
+    /* Adicione os estilos desejados aqui */
+    border-radius: 40%; /* Exemplo: borda arredondada */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Exemplo: sombra */
+    width: 60px;
+    height: 60px;
+}
+ 
+.bg-body-tertiary {
+        background-color: blueviolet !important; /* Cor de fundo da navbar */
+        padding: 5px; /* Espaçamento interno da navbar */
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra */
+        margin: 0;
+}
+
+.container{
+    margin: 0;
+}
+body{
+    background-image: url('https://img.freepik.com/vetores-premium/ilustracao-horizontal-no-tema-do-cafe-da-manha-vetor-preto-e-branco-mao-desenhada-mesa-com-bebidas-panquecas-sanduiches-ovos-croissants-e-frutas-vista-do-topo_198278-7122.jpg?w=1380'); /* Substitua 'caminho/para/sua/imagem.jpg' pelo caminho da sua imagem */
+    background-size: cover; /* Garante que a imagem de fundo cubra todo o corpo */
+    background-repeat: no-repeat; /* Evita a repetição da imagem */
+}
+.formulario{
+    margin-left: 2%;
+}
+.container-form {
+    width: 50%;
+    margin: 50px auto;
+    background-color: #FFD700;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+.container-form h1 {
+
+    font-family: 'Garamond', serif;
+}
+
+.btn-group{
+    padding: 12px 12px;
+    
+}
+.btn-outline-custom {
+    color: white; /* cor do texto */
+    border-color:white; /* cor da borda */
+}
+
+.btn{
+    background-color: blueviolet; /* cor de fundo ao passar o mouse */
+    color: white; /* cor do texto ao passar o mouse */
+}
+
+
